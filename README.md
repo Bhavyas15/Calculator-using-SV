@@ -15,3 +15,7 @@ Simple calculator DUT and testbench written in SystemVerilog.
 
 ## Operations Supported
 + - * / % & | ^ << >>
+   
+## EDA Playground Link- 
+https://edaplayground.com/x/f8my
+
